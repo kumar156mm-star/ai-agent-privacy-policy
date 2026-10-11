@@ -1,0 +1,42 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Agent Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: October 11, 2026</p>
+
+  <p>This Privacy Policy explains how AI Agent handles information when you use the app.</p>
+
+  <h2>Information We Handle</h2>
+  <p><strong>Photos and messages:</strong> When you choose to send a photo or text message to the AI, the content is transmitted to the AI service to generate a response.</p>
+
+  <p><strong>User information:</strong> The app uses Firebase to handle usernames. We do not intentionally store AI photos or chat messages in Firebase.</p>
+
+  <h2>How Information Is Used</h2>
+  <p>Photos and messages are used to provide AI responses. The AI provider may process or retain submitted content according to its own privacy policy and settings.</p>
+
+  <h2>Storage and Sharing</h2>
+  <p>We do not intentionally save photos or AI chat messages in our Firebase database. Information may be transmitted to the AI provider to provide the requested functionality. We do not sell personal information.</p>
+
+  <h2>Permissions</h2>
+  <p>The app may request access to photos or files when you choose to submit them to the AI.</p>
+
+  <h2>Security</h2>
+  <p>We take reasonable steps to protect information handled by the app. No method of electronic transmission is completely secure.</p>
+
+  <h2>Children's Privacy</h2>
+  <p>The app is not specifically directed at children under 13.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>This policy may be updated when the app's features or data practices change.</p>
+
+  <h2>Contact</h2>
+  <p>For privacy questions, contact the app developer through the contact information provided on the app's Google Play listing.</p>
+</body>
+</html>
+```
